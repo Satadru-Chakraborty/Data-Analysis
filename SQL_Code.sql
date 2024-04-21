@@ -1,3 +1,5 @@
+--Creating a table with all the columns contained in our preprocessed data
+
 CREATE TABLE order_detail(
 order_id              int primary key
 ,order_date           date
